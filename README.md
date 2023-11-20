@@ -52,4 +52,4 @@ This script is licensed under the MIT License. See the [LICENSE](LICENSE.md) fil
 
 ## Author
 
-Aaron Po - [https://aaronwilliampo.com](https://aaronwilliampo.com)
+Aaron Po
